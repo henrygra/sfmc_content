@@ -1,7 +1,7 @@
 {
-	"name": "Sample Block",
-	"description": "A Sample Salesforce Marketing Cloud Content Builder Custom Block",
+	"name": "Contentful",
+	"description": "Contentful Headless CMS",
 	"repository": "https://github.com/tbesluau/sampleblock",
-	"logo": "https://github.com/tbesluau/sampleblock/blob/master/dist/icon.png?raw=true",
+	"logo": "https://image.s4.sfmc-content.com/lib/fe9115747361057a73/m/1/9777e897-f5ed-4cd8-b9f7-97926a730fb6.png",
 	"keywords": ["node", "express", "static", "content builder", "block", "blocksdk"]
 }
